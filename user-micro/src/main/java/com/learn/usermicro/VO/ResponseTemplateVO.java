@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class ResponseTemplateVO {
-    private User user;
+    //private User user;
     private Department department;
 }
